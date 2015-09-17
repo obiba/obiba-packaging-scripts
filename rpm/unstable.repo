@@ -1,0 +1,6 @@
+[obiba-unstable]
+name = OBiBa Unstable Package Repository
+baseurl = http://rpm.obiba.org/unstable/
+enabled=1
+gpgcheck=1
+gpgkey=http://pkg.obiba.org/obiba.org.key

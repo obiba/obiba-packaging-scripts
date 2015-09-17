@@ -1,0 +1,6 @@
+[obiba-stable]
+name = OBiBa Stable Package Repository
+baseurl = http://rpm.obiba.org/stable/
+enabled=1
+gpgcheck=1
+gpgkey=http://pkg.obiba.org/obiba.org.key
